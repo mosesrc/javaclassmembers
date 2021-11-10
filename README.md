@@ -7,3 +7,5 @@ The instructor's name is Scott Dossey
 ## Students
 
 * Ryan Moses
+* Dustin Morgan
+
