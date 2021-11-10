@@ -10,3 +10,4 @@ The instructor's name is Scott Dossey
 * Ryan Moses
 * Dustin Morgan
 * CG Kennedy
+* kayla murphy
